@@ -1,5 +1,3 @@
-import React from "react";
-
 const Package = ({ pack, index, totalPrice, totalWeight, courier }) => {
   return (
     <div key={index} className="bg-white px-5 py-5">
