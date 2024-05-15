@@ -4,6 +4,6 @@
 - npm install
 - npm run dev
 
-## GO TO FRONTEND DIRECTORY
+## GO TO FRONTEND DIRECTOR
 - npm install 
-- npm run dev
+- npm run dev 
